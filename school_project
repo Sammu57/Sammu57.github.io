@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> List </title>
+</head>
+<body bgcolor= blue>
+<h1><font color= green> Unordered List </font></h1>
+<ul>
+<li type= square> Apple </li>
+<li type= square> Pineapple </li>
+<li type= square> Custard apple </li>
+<ul>
+</body>
+</html>
